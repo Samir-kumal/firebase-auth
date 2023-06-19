@@ -5,6 +5,17 @@
       "bundler": "metro"
     },
     "name": "my-app",
-    "slug": "my-app"
+    "slug": "my-app",
+    "extra": {
+      "eas": {
+        "projectId": "5958fece-fefc-4f5d-8d7d-abbc5b45f26a"
+      }
+    },
+    "android": {
+      "package": "com.panauti.tourist_guide_app"
+    },
+    "ios": {
+      "bundleIdentifier": "com.panauti.app"
+    }
   }
 }
