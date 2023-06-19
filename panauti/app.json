@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "panauti",
+    "slug": "panauti",
+    "extra": {
+      "eas": {
+        "projectId": "f29a3b1f-a421-453e-8ca0-3356269e698c"
+      }
+    },
+    "android": {
+      "package": "com.samir_kumal.panauti"
+    }
+  }
+}
